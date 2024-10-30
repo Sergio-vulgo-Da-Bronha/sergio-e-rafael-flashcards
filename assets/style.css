@@ -37,7 +37,8 @@ body {
                     background-color: var(--card-front-color);
                     height: 100%;
                     transform-style: preserve-3d;
-                    transition: transform 300ms ease-in-out;
+                    transition: 300ms ;
+                    transform: ease-in-out
                 }
                     
 .cartao__conteudo h3 {
