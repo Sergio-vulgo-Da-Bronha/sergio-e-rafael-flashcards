@@ -1,7 +1,7 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #39a010ad;
+    --card-back-color: 	#5C4033;
 }
 footer {
     background-color: black;
@@ -19,8 +19,11 @@ footer p {
 }
     
 body {
-    background:url(img/bg-desktop.webp);
-    font-family: Bai Jamjuree;
+    background:url(img/360_F_716460348_Jt5pIV5s5cBm94G1er5nO2F7YTvC6dF3.jpg) center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Bai Jamjuree' , sans-serif;
     }
         
 
